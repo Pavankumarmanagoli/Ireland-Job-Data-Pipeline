@@ -35,8 +35,9 @@ Originally built to streamline labour-market research in Ireland, this project a
 Clone the repository and navigate to this project:
 
 ```bash
-git clone https://github.com/Pavankumarmanagoli/Projects.git
-cd "Projects/Dynamic Job Data Pipeline"
+git clone https://github.com/Pavankumarmanagoli/Ireland-Job-Data-Pipeline.git
+cd Ireland-Job-Data-Pipeline
+
 ```
 
 Prerequisites:
